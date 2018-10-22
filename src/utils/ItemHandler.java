@@ -52,30 +52,30 @@ public class ItemHandler extends DefaultHandler {
 
     @Override
     public void endElement(String uri, String localName, String qName) {
-        if(qName.equalsIgnoreCase(ITEM)){
+        if (qName.equalsIgnoreCase(ITEM)) {
             rssList.addItem(rssItem);
         }
     }
 
     @Override
     public void characters(char[] ch, int start, int length) {
-        if(title) {
+        if (title) {
             rssItem.setTitle(new String(ch, start, length));
             title = false;
         }
-        if(link) {
+        if (link) {
             rssItem.setLink(new String(ch, start, length));
             link = false;
         }
-        if(description) {
+        if (description) {
             rssItem.setDescrition(new String(ch, start, length));
             description = false;
         }
-        if(pubDate) {
+        if (pubDate) {
             rssItem.setPubDate(new String(ch, start, length));
             pubDate = false;
         }
-        if(author) {
+        if (author) {
             rssItem.setAuthor(new String(ch, start, length));
             author = false;
         }

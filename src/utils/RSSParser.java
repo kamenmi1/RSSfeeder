@@ -14,7 +14,7 @@ public class RSSParser {
     private RSSList rssList;
     private ItemHandler itemHandler;
 
-    public RSSParser(){
+    public RSSParser() {
         this.rssList = new RSSList();
         this.itemHandler = new ItemHandler(rssList);
     }

@@ -23,7 +23,8 @@ public class RSSList {
         itemList.clear();
 
     }
-    public List<RSSItem> getAllItem(){
+
+    public List<RSSItem> getAllItem() {
         return itemList;
     }
 

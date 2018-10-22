@@ -111,10 +111,10 @@ public class MainFrame extends JFrame {
                     try {
                         rssList = new RSSParser().getParsedRSS(txtInputField.getText());
                         txtContent.setText("");
-                        for(RSSItem item: rssList.getAllItem()){
+                        for (RSSItem item : rssList.getAllItem()) {
                             txtContent.append(String.format("%s - autor: %s%n", item.getTitle(), item.getAuthor()));
                         }
-                    } catch (IOException | SAXException | ParserConfigurationException e1 ) {
+                    } catch (IOException | SAXException | ParserConfigurationException e1) {
                         e1.printStackTrace();
                     }
 
