@@ -3,14 +3,11 @@ package cz.uhk.fim.rssfeeder.gui;
 import Model.RSSItem;
 import Model.RSSList;
 import org.xml.sax.SAXException;
-import utils.FileUtils;
 import utils.RSSParser;
 
 import javax.swing.*;
 import javax.xml.parsers.ParserConfigurationException;
 import java.awt.*;
-import java.awt.event.ActionEvent;
-import java.awt.event.ActionListener;
 import java.io.IOException;
 
 public class MainFrame extends JFrame {
@@ -28,7 +25,7 @@ public class MainFrame extends JFrame {
 
     public void init() {
         setTitle("RSSfeeder");
-        setSize(500, 800);
+        setSize(700, 800);
         setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE);
         setLocationRelativeTo(null);
 
@@ -46,34 +43,6 @@ public class MainFrame extends JFrame {
         controlPanel.add(btnSave, BorderLayout.EAST);
         controlPanel.add(lblErrorMessage, BorderLayout.SOUTH);
 
-
-        // validace zdali je txtInputField prázdný -- (https://stackoverflow.com/questions/21879243/how-to-create-on-click-event-for-buttons-in-swing)
-        /*btnSave.addActionListener(new ActionListener() {
-            @Override
-            public void actionPerformed(ActionEvent e) {
-                if (txtInputField.getText().isEmpty() == true) {
-                    lblErrorMessage.setVisible(true);
-                    lblErrorMessage.setText("Nezdali jste název souboru, do kterého chcete uložit.");
-                } else {
-                    cestaSoubor = txtInputField.getText();
-                    lblErrorMessage.setVisible(false);
-                }
-            }
-        });
-
-        btnLoad.addActionListener(new ActionListener() {
-            @Override
-            public void actionPerformed(ActionEvent e) {
-                if (txtInputField.getText().isEmpty() == true) {
-                    lblErrorMessage.setVisible(true);
-                    lblErrorMessage.setText("Nezdali jste název souboru, ze kterého chcete načíst data.");
-                } else {
-                    cestaSoubor = txtInputField.getText();
-                    lblErrorMessage.setVisible(false);
-                }
-            }
-        });
-*/
         //umisteni do panelu a zarovani na stred -- (https://stackoverflow.com/questions/16957329/borderlayout-center-doesnt-center)
         lblErrorMessage.setVerticalAlignment(SwingConstants.CENTER);
         lblErrorMessage.setHorizontalAlignment(SwingConstants.CENTER);
@@ -82,10 +51,20 @@ public class MainFrame extends JFrame {
 
         add(controlPanel, BorderLayout.NORTH);
 
-        JTextArea txtContent = new JTextArea();
-        add(new JScrollPane(txtContent), BorderLayout.CENTER);
+        JPanel contentPanel = new JPanel(new WrapLayout());
 
-        btnLoad.addActionListener(new ActionListener() {
+        try {
+            rssList = new RSSParser().getParsedRSS("rss.xml");
+            for (RSSItem item : rssList.getAllItem()) {
+                contentPanel.add(new CardView(item));
+            }
+        } catch (IOException | SAXException | ParserConfigurationException e1) {
+            e1.printStackTrace();
+        }
+
+        add(new JScrollPane(contentPanel), BorderLayout.CENTER);
+
+       /* btnLoad.addActionListener(new ActionListener() {
             @Override
             public void actionPerformed(ActionEvent e) {
                 if (validatInput()) {
@@ -102,12 +81,7 @@ public class MainFrame extends JFrame {
             @Override
             public void actionPerformed(ActionEvent e) {
                 if (validatInput()) {
-                    /*try {
-                        FileUtils.saveStringToFile(txtInputField.getText(), txtContent.getText().getBytes("UTF-8"));
-                    } catch (IOException e1) {
-                        showErrorMessage(IO_SAVE_TYPE);
-                        e1.printStackTrace();
-                    }*/
+
                     try {
                         rssList = new RSSParser().getParsedRSS(txtInputField.getText());
                         txtContent.setText("");
@@ -121,31 +95,9 @@ public class MainFrame extends JFrame {
                 }
             }
         });
-
-       /* try {
-            txtContent.setText(FileUtils.loadStringFromFile("rss.xml"));
-
-        } catch (IOException e) {
-            System.out.println(e.getMessage());
-        }*/
-
+*/
     }
 
-    /*public void showErrorMessage(String type) {
-        if (type == "ChybaLoad" || type == "ChybaSave") {
-            if (txtInputField.getText().equals("rss.xml") == false) {
-                System.out.println(12121);
-                lblErrorMessage.setVisible(true);
-                if (type == "ChybaLoad") {
-                    lblErrorMessage.setText("Chyba načtení souboru - špatné jméno");
-                } else {
-                    lblErrorMessage.setText("Chyba uložení souboru - špatné jméno");
-                }
-            }
-        } else {
-            lblErrorMessage.setVisible(false); //nezobrazi label
-        }
-    }*/
 
     private boolean validatInput() {
         if (txtInputField.getText().trim().isEmpty()) {
