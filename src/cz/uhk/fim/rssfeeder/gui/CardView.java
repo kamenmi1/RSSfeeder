@@ -7,12 +7,10 @@ import java.awt.*;
 import java.util.Random;
 
 public class CardView extends JPanel {
-
-
-
     private static final int ITEM_WIDTH = 180;
     private static final int COMPONENT_WIDTH = 160;
     private static final int HEIGHT = 1;
+
 
     final String startHtml = "<html><p style='width:"+ COMPONENT_WIDTH + " px'>";
     final String endHtml = "</p></html>";
@@ -46,7 +44,8 @@ public class CardView extends JPanel {
         JLabel lblTitle= new JLabel();
         lblTitle.setSize(COMPONENT_WIDTH,HEIGHT);
         lblTitle.setFont(new Font("Courier New", Font.BOLD, 12)); // Zdroje: (http://www.java2s.com/Tutorial/Java/0240__Swing/SetFontandforegroundcolorforaJLabel.htm)
-        lblTitle.setText(String.format("%s%s%s",startHtml,title,endHtml));
+        lblTitle.setText(String.format("%s%5.35s%s%s",startHtml,title,"...",endHtml));
+        String text = lblTitle.getText();
         add(lblTitle);
     }
 

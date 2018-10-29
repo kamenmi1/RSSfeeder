@@ -21,7 +21,6 @@ public class RSSList {
 
     public void ClearAll() {
         itemList.clear();
-
     }
 
     public List<RSSItem> getAllItem() {

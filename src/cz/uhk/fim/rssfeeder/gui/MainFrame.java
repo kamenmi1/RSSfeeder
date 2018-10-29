@@ -21,7 +21,6 @@ public class MainFrame extends JFrame {
     private JTextField txtInputField = new JTextField();
 
     private RSSList rssList;
-    //private String cestaSoubor = "rss.xml";
 
     public void init() {
         setTitle("RSSfeeder");
