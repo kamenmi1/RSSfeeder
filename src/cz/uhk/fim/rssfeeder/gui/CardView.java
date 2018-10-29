@@ -4,8 +4,11 @@ import Model.RSSItem;
 
 import javax.swing.*;
 import java.awt.*;
+import java.util.Random;
 
 public class CardView extends JPanel {
+
+
 
     private static final int ITEM_WIDTH = 180;
     private static final int COMPONENT_WIDTH = 160;
@@ -19,7 +22,7 @@ public class CardView extends JPanel {
         setSize(ITEM_WIDTH, HEIGHT);
         setTitle(item.getTitle());
         setDescription(item.getDescrition());
-        setBackground(Color.LIGHT_GRAY);
+        setBackground(setRandomColor());
         setInfo(String.format("%s - %s", item.getPubDate(), item.getAuthor()));
 }
 
@@ -47,4 +50,15 @@ public class CardView extends JPanel {
         add(lblTitle);
     }
 
+    public Color setRandomColor(){
+        // Zdroje: https://stackoverflow.com/questions/4246351/creating-random-colour-in-java
+
+        // Java 'Color' class takes 3 floats, from 0 to 1.
+        Random rand = new Random();
+        float r = (float) (rand.nextFloat() / 2f + 0.5);
+        float g = (float) (rand.nextFloat() / 2f + 0.5);
+        float b = (float) (rand.nextFloat() / 2f + 0.5);
+        Color randomColor = new Color(r, g, b);
+        return  randomColor;
+    }
 }
