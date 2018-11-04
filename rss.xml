@@ -1,518 +1,507 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>mobilenet.cz</title>
-        <link>https://mobilenet.cz</link>
-        <atom:link href="https://mobilenet.cz/rss" rel="self" type="application/rss+xml"/>
-        <description>Mobilní telefony, notebooky a technologie budoucnosti</description>
+        <title>Živě.cz</title>
+        <link>https://www.zive.cz</link>
+        <description> </description>
         <language>cs</language>
-        <copyright>Copyright 2018, 24net s.r.o.</copyright>
-        <ttl>10</ttl>
+        <pubDate>Fri, 2 Nov 2018 17:00:00 GMT</pubDate>
+        <image>
+            <title>Živě.cz</title>
+            <url>
+                https://www.zive.cz/Client.Images/Logos/logo-zive-rss.gif
+            </url>
+            <link>https://www.zive.cz</link>
+        </image>
+        <atom:link rel="self" type="application/rss+xml" href="https://www.zive.cz/rss/sc-47"/>
         <item>
-            <title>Nokia 7.1 míří na český trh. Startovací cena bude spíše vyšší</title>
-            <link>https://mobilenet.cz/clanky/nokia-71-miri-na-cesky-trh-startovaci-cena-bude-spise-vyssi-36311</link>
-            <guid>https://mobilenet.cz/clanky/nokia-71-miri-na-cesky-trh-startovaci-cena-bude-spise-vyssi-36311</guid>
-            <description>&lt;img src=&quot;https://mobilenet.cz/obrazek/ikonka-288194&quot; alt=&quot;Nokia 7.1 míří na
-                český trh. Startovací cena bude spíše vyšší&quot; style=&quot;display: block;&quot;&gt;Na českém trhu by
-                se Nokia 7.1 měla objevit ještě koncem tohoto měsíce&#13;
-                Cena se za slabší variantu vyšplhá na téměř 9 tisíc korun
-            </description>
-            <pubDate>Mon, 15 Oct 2018 13:15:00 +0200</pubDate>
-            <dc:creator>Michal Pavlíček</dc:creator>
-            <category>Novinky</category>
-        </item>
-        <item>
-            <title>HMD Global láká na Nokii 7.1 Plus. Představení proběhne zítra – 7× aktualizováno</title>
-            <link>https://mobilenet.cz/clanky/nokia-x7-by-mela-obsadit-stredni-tridu-se-snapdragonem-710-36078</link>
-            <guid>https://mobilenet.cz/clanky/nokia-x7-by-mela-obsadit-stredni-tridu-se-snapdragonem-710-36078</guid>
-            <description>&lt;img src=&quot;https://mobilenet.cz/obrazek/ikonka-287663&quot; alt=&quot;HMD Global láká na
-                Nokii 7.1 Plus. Představení proběhne zítra&quot; style=&quot;display: block;&quot;&gt;Nokia zřejmě
-                připravuje novinku střední třídy s označením X7 (Nokia 7.1 Plus)&#13;
-                Ve výbavě by se měl objevit Snapdragon 710&#13;
-                K představení dojde 16. října
-            </description>
-            <pubDate>Mon, 15 Oct 2018 12:45:00 +0200</pubDate>
-            <dc:creator>Michal Pavlíček, Ioannis Papadopoulos</dc:creator>
-            <category>Novinky</category>
-        </item>
-        <item>
-            <title>Falešné bankovní aplikace opět pronikly do Google Play</title>
-            <link>https://mobilenet.cz/clanky/falesne-bankovni-aplikace-opet-pronikly-do-google-play-36310</link>
-            <guid>https://mobilenet.cz/clanky/falesne-bankovni-aplikace-opet-pronikly-do-google-play-36310</guid>
-            <description>&lt;img src=&quot;https://mobilenet.cz/obrazek/ikonka-277811&quot; alt=&quot;Falešné bankovní
-                aplikace opět pronikly do Google Play&quot; style=&quot;display: block;&quot;&gt;Do oficiálního obchodu
-                s aplikacemi pro mobilní zařízení s operačním systémem Android Google Play proniklo šest dalších
-                falešných bankovních aplikací, které okrádají uživatele o údaje o platebních kartách a přihlašovací
-                údaje k internetovému bankovnictví&#13;
-                Na rozdíl od předešlé ztrojanizované aplikace QRecorder ale necílí primárně na české uživatele&#13;
-                I celkový objem instalací je podstatně nižší&#13;
-                Bezpečnostní společnost ESET objevila aplikace, které se vydávají za legitimní nástroje pro přístup k
-                účtům bank z Nového Zélandu, Austrálie, Spojeného království, Švýcarska, Polska a rakouské směnárny
-                kryptoměn Bitpanda
-            </description>
-            <pubDate>Mon, 15 Oct 2018 12:05:00 +0200</pubDate>
-            <dc:creator>Marek Vacovský</dc:creator>
-            <category>Novinky</category>
-        </item>
-        <item>
-            <title>6 % Čechů se zasnoubilo přes mobil, průzkum T-Mobile odkrývá překvapivá fakta</title>
-            <link>
-                https://mobilenet.cz/clanky/6-cechu-se-zasnoubilo-pres-mobil-pruzkum-t-mobile-odkryva-prekvapiva-fakta-36309
-            </link>
-            <guid>
-                https://mobilenet.cz/clanky/6-cechu-se-zasnoubilo-pres-mobil-pruzkum-t-mobile-odkryva-prekvapiva-fakta-36309
-            </guid>
-            <description>&lt;img src=&quot;https://mobilenet.cz/obrazek/ikonka-287386&quot; alt=&quot;6 % Čechů se
-                zasnoubilo přes mobil, průzkum T-Mobile odkrývá překvapivá fakta&quot; style=&quot;display: block;&quot;&gt;Téměř
-                polovina mladých lidí už alespoň jednoho svého partnera poznala online&#13;
-                Třetina mladých se přes mobil rozešla, 6% se přes mobil naopak zasnoubilo&#13;
-                Čtvrtina zažila tzv. ghosting, tedy situaci, kdy partner ukončí vztah tím, že hraje „mrtvého brouka“
-            </description>
-            <pubDate>Mon, 15 Oct 2018 11:50:00 +0200</pubDate>
-            <dc:creator>Marek Vacovský</dc:creator>
-            <category>Novinky</category>
-        </item>
-        <item>
-            <title>ASUS se vytasí se dvěma novinkami. Premiéra proběhne tuto středu</title>
-            <link>https://mobilenet.cz/clanky/asus-se-vytasi-se-dvema-novinkami-premiera-probehne-tuto-stredu-36308
-            </link>
-            <guid>https://mobilenet.cz/clanky/asus-se-vytasi-se-dvema-novinkami-premiera-probehne-tuto-stredu-36308
-            </guid>
-            <description>&lt;img src=&quot;https://mobilenet.cz/obrazek/ikonka-271549&quot; alt=&quot;ASUS se vytasí se
-                dvěma novinkami. Premiéra proběhne tuto středu&quot; style=&quot;display: block;&quot;&gt;Dva nové
-                ZenFony se chystá ASUS představit pozítří v Indii&#13;
-                Minimálně jeden by se měl objevit také na globálních trzích
-            </description>
-            <pubDate>Mon, 15 Oct 2018 11:05:00 +0200</pubDate>
-            <dc:creator>Michal Pavlíček</dc:creator>
-            <category>Novinky</category>
-        </item>
-        <item>
-            <title>Android 9.0 Pie již využívá 75 % smartphonů Google Pixel</title>
-            <link>https://mobilenet.cz/clanky/android-90-pie-jiz-vyuziva-75-smartphonu-google-pixel-36306</link>
-            <guid>https://mobilenet.cz/clanky/android-90-pie-jiz-vyuziva-75-smartphonu-google-pixel-36306</guid>
-            <description>&lt;img src=&quot;https://mobilenet.cz/obrazek/ikonka-271213&quot; alt=&quot;Android 9.0 Pie
-                již využívá 75 % smartphonů Google Pixel&quot; style=&quot;display: block;&quot;&gt;Během dvou měsíců se
-                většina uživatelů Pixelů rozhodla aktualizovat na Android 9.0&#13;
-                V tomto ohledu postupují uživatelé Pixelů stejně jako majitelé iPhonů
-            </description>
-            <pubDate>Mon, 15 Oct 2018 11:00:00 +0200</pubDate>
-            <dc:creator>Michal Pavlíček</dc:creator>
-            <category>Novinky</category>
-        </item>
-        <item>
-            <title>Cvičíme s Applem! Jak vypadají krátké videotutoriály s Apple Watch Series 4?</title>
-            <link>
-                https://mobilenet.cz/clanky/cvicime-s-applem-jak-vypadaji-kratke-videotutorialy-s-apple-watch-series-4-36305
-            </link>
-            <guid>
-                https://mobilenet.cz/clanky/cvicime-s-applem-jak-vypadaji-kratke-videotutorialy-s-apple-watch-series-4-36305
-            </guid>
-            <description>&lt;img src=&quot;https://mobilenet.cz/obrazek/ikonka-288411&quot; alt=&quot;Cvičíme s Applem!
-                Jak vypadají krátké videotutoriály s Apple Watch Series 4?&quot; style=&quot;display: block;&quot;&gt;Apple
-                vydává krátká videa o tom, jak funguje aplikace Cvičení a Tíseň SOS &#13;
-                Funkce, přestože demonstrovány na Apple Watch Series 4, jsou dostupné i na starších modelech Apple Watch&#13;
-                &#13;
-            </description>
-            <pubDate>Mon, 15 Oct 2018 11:00:00 +0200</pubDate>
-            <dc:creator>Ioannis Papadopoulos</dc:creator>
-            <category>Novinky</category>
-        </item>
-        <item>
-            <title>Samsung Galaxy A6s se blíží. Uniká jeho pestrobarevná podoba – 2× aktualizováno</title>
-            <link>https://mobilenet.cz/clanky/novy-samsung-stredni-tridy-na-obzoru-bude-mit-dualni-fotoaparat-36191
-            </link>
-            <guid>https://mobilenet.cz/clanky/novy-samsung-stredni-tridy-na-obzoru-bude-mit-dualni-fotoaparat-36191
-            </guid>
-            <description>&lt;img src=&quot;https://mobilenet.cz/obrazek/ikonka-288006&quot; alt=&quot;Samsung Galaxy A6s
-                se blíží. Uniká jeho pestrobarevná podoba&quot; style=&quot;display: block;&quot;&gt;Ve výbavě se objeví
-                téměř 6palcový displej s Full HD+ rozlišením&#13;
-                Výkon má zajišťovat procesor Snapdragon 660/710&#13;
-                Dostane se i na duální fotoaparát&#13;
-                O výrobu by se překvapivě neměl starat Samsung
-            </description>
-            <pubDate>Mon, 15 Oct 2018 10:05:00 +0200</pubDate>
-            <dc:creator>Michal Pavlíček</dc:creator>
-            <category>Novinky</category>
-        </item>
-        <item>
-            <title>Oznámení biblických rozměrů se dočkáme již 22. října! HTC Exodus v hlavní roli – 2× aktualizováno
-            </title>
-            <link>https://mobilenet.cz/clanky/htc-exodus-vsadi-na-kryptomeny-a-zabezpecenou-penezenku-35155</link>
-            <guid>https://mobilenet.cz/clanky/htc-exodus-vsadi-na-kryptomeny-a-zabezpecenou-penezenku-35155</guid>
-            <description>&lt;img src=&quot;https://mobilenet.cz/obrazek/ikonka-288748&quot; alt=&quot;Oznámení
-                biblických rozměrů se dočkáme již 22. října! HTC Exodus v hlavní roli&quot; style=&quot;display: block;&quot;&gt;HTC
-                hodlá experimentovat a propojit svět smartphonů a kryptoměn&#13;
-                Chystá se celá řada zvaná Exodus, která nabídne speciálně zabezpečenou peněženku
-            </description>
-            <pubDate>Sun, 14 Oct 2018 19:15:00 +0200</pubDate>
-            <dc:creator>Michal Pavlíček, Ioannis Papadopoulos</dc:creator>
-            <category>Novinky</category>
-        </item>
-        <item>
-            <title>Ten pocit, když se v Messengeru prořekneš, ale nejde to vzít zpět, skončí již brzy</title>
-            <link>
-                https://mobilenet.cz/clanky/ten-pocit-kdyz-se-v-messengeru-proreknes-ale-nejde-to-vzit-zpet-skonci-jiz-brzy-36303
-            </link>
-            <guid>
-                https://mobilenet.cz/clanky/ten-pocit-kdyz-se-v-messengeru-proreknes-ale-nejde-to-vzit-zpet-skonci-jiz-brzy-36303
-            </guid>
-            <description>&lt;img src=&quot;https://mobilenet.cz/obrazek/ikonka-288689&quot; alt=&quot;Ten pocit, když se
-                v Messengeru prořekneš, ale nejde to vzít zpět, skončí již brzy&quot; style=&quot;display: block;&quot;&gt;Facebook
-                testuje možnost „od-odeslat“ zprávu v Messenger chatu&#13;
-                Uživatelé tak dostanou možnost smazat zprávu na straně příjemce&#13;
-            </description>
-            <pubDate>Sun, 14 Oct 2018 16:45:00 +0200</pubDate>
-            <dc:creator>Ioannis Papadopoulos</dc:creator>
-            <category>Novinky</category>
-        </item>
-        <item>
-            <title>Stanou se atraktivní Huawei Watch GT s cenovkou pod 6 tisíc novým trhákem? – 2× aktualizováno</title>
-            <link>
-                https://mobilenet.cz/clanky/nove-hodinky-od-huawei-s-procesorem-wear-3100-by-se-mohly-jmenovat-gt-nebo-fortuna-36180
-            </link>
-            <guid>
-                https://mobilenet.cz/clanky/nove-hodinky-od-huawei-s-procesorem-wear-3100-by-se-mohly-jmenovat-gt-nebo-fortuna-36180
-            </guid>
-            <description>&lt;img src=&quot;https://mobilenet.cz/obrazek/ikonka-288690&quot; alt=&quot;Stanou se
-                atraktivní Huawei Watch GT s cenovkou pod 6 tisíc novým trhákem? &quot; style=&quot;display: block;&quot;&gt;Nové
-                hodinky od Huawei s voděodolností do 5 ATM se nazývají Watch GT&#13;
-                Nabídnou baterii s kapacitou 410 mAh, NFC i GPS, GLONASS, Beidou i Galileo&#13;
-                Slibovaná výdrž činí až 14 dní a počítá se s nasazením nejnovějšího procesoru Snapdragon Wear 3100
-            </description>
-            <pubDate>Sun, 14 Oct 2018 16:25:00 +0200</pubDate>
-            <dc:creator>Ioannis Papadopoulos, Michal Pavlíček</dc:creator>
-            <category>Novinky</category>
-        </item>
-        <item>
-            <title>3D fotografie na Facebooku zatím pouze pro majitele iPhonů. Je o co stát?</title>
-            <link>
-                https://mobilenet.cz/clanky/3d-fotografie-na-facebooku-zatim-pouze-pro-majitele-iphonu-je-o-co-stat-36301
-            </link>
-            <guid>
-                https://mobilenet.cz/clanky/3d-fotografie-na-facebooku-zatim-pouze-pro-majitele-iphonu-je-o-co-stat-36301
-            </guid>
-            <description>&lt;img src=&quot;https://mobilenet.cz/obrazek/ikonka-288688&quot; alt=&quot;3D fotografie na
-                Facebooku zatím pouze pro majitele iPhonů. Je o co stát?&quot; style=&quot;display: block;&quot;&gt;Facebook
-                přináší možnost vytvoření 3D fotografií&#13;
-                3D fotografie budou následně ke zhlédnutí jak na facebookové zdi, tak na VR headsetech (například Oculus
-                Rift nebo Oculus Go)&#13;
-                Technologie je prozatím dostupná pouze na novějších iPhonech, brzy však dojde k rozšíření i na další
-                modely včetně smartphonů s Androidem
-            </description>
-            <pubDate>Sun, 14 Oct 2018 09:50:00 +0200</pubDate>
-            <dc:creator>Ioannis Papadopoulos</dc:creator>
-            <category>Novinky</category>
-        </item>
-        <item>
-            <title>Recenze Vodafone Smart X9 – Návrat do úspěšných vod</title>
-            <link>https://mobilenet.cz/clanky/recenze-vodafone-smart-x9-navrat-do-uspesnych-vod-36295</link>
-            <guid>https://mobilenet.cz/clanky/recenze-vodafone-smart-x9-navrat-do-uspesnych-vod-36295</guid>
-            <description>&lt;img src=&quot;https://mobilenet.cz/obrazek/ikonka-288567&quot; alt=&quot;Vodafone Smart X9&quot;
-                style=&quot;display: block;&quot;&gt;Zdálo se, že Vodafone se svými smartphony vyklidí segment lépe
-                vybavených zařízení. Naštěstí se tak nestalo a dočkali jsme se nového modelu Smart X9. Ten za
-                sympatických 4,5 tisíce korun láká na vcelku pěkný vzhled, velký displej i solidní hardware. Nechybí ani
-                duální fotoaparát. Na první pohled tak novinka má vše, co moderní telefon má mít.
-            </description>
-            <pubDate>Sun, 14 Oct 2018 07:00:00 +0200</pubDate>
-            <dc:creator>Michal Pavlíček</dc:creator>
-            <category>Recenze</category>
-        </item>
-        <item>
-            <title>Fortnite pro Android nyní bez pozvánky! Oplétačkám s instalátorem se ale nevyhnete</title>
-            <link>
-                https://mobilenet.cz/clanky/fortnite-na-android-nyni-bez-pozvanky-opletackam-s-instalatorem-se-ale-nevyhnete-36300
-            </link>
-            <guid>
-                https://mobilenet.cz/clanky/fortnite-na-android-nyni-bez-pozvanky-opletackam-s-instalatorem-se-ale-nevyhnete-36300
-            </guid>
-            <description>&lt;img src=&quot;https://mobilenet.cz/obrazek/ikonka-275879&quot; alt=&quot;Fortnite pro
-                Android nyní bez pozvánky! Oplétačkám s instalátorem se ale nevyhnete&quot; style=&quot;display: block;&quot;&gt;Fortnite
-                pro Android lze nyní stáhnout i bez pozvánky&#13;
-                Odstraněním instalátoru se hráči ochudí o budoucí aktualizace
-            </description>
-            <pubDate>Sat, 13 Oct 2018 14:50:00 +0200</pubDate>
-            <dc:creator>Ioannis Papadopoulos</dc:creator>
-            <category>Novinky</category>
-        </item>
-        <item>
-            <title>Porazí nový „zlato-stříbrný“ Snapdragon 8150 procesory od Huawei a Applu?</title>
-            <link>
-                https://mobilenet.cz/clanky/porazi-novy-zlato-stribrny-snapdragon-8150-procesory-od-huawei-a-applu-36298
-            </link>
-            <guid>
-                https://mobilenet.cz/clanky/porazi-novy-zlato-stribrny-snapdragon-8150-procesory-od-huawei-a-applu-36298
-            </guid>
-            <description>&lt;img src=&quot;https://mobilenet.cz/obrazek/ikonka-256562&quot; alt=&quot;Porazí nový
-                „zlato-stříbrný“ Snapdragon 8150 procesory od Huawei a Applu? &quot; style=&quot;display: block;&quot;&gt;Nástupcem
-                Snapdragonu 845 se stane osmijádrový procesor se 4 výkonnějšími (2,6 GHz) a 4 úspornými jádry (1,7 GHz)&#13;
-                V novince nebudou již nasazena jádra společnosti ARM, namísto toho budou použita Kryo jádra od Qualcommu&#13;
-                Prvních smartphonů se Snapdragonem 8150 se dočkáme v březnu 2019
-            </description>
-            <pubDate>Sat, 13 Oct 2018 14:10:00 +0200</pubDate>
-            <dc:creator>Ioannis Papadopoulos</dc:creator>
-            <category>Novinky</category>
-        </item>
-        <item>
-            <title>Assassin's Creed Rebellion se pokradmu dostává na obrazovky mobilních telefonů</title>
-            <link>
-                https://mobilenet.cz/clanky/assassins-creed-rebellion-se-pokradmu-dostava-na-obrazovky-mobilnich-telefonu-36297
-            </link>
-            <guid>
-                https://mobilenet.cz/clanky/assassins-creed-rebellion-se-pokradmu-dostava-na-obrazovky-mobilnich-telefonu-36297
-            </guid>
-            <description>&lt;img src=&quot;https://mobilenet.cz/obrazek/ikonka-288639&quot; alt=&quot;Assassin's Creed
-                Rebellion se pokradmu dostává na obrazovky mobilních telefonů&quot; style=&quot;display: block;&quot;&gt;Assassin's
-                Creed Rebellion umožňuje hrát za několik postav z AC universa &#13;
-                Hra představuje kombinaci strategie s RPG prvky s dostupností na Android a iOS&#13;
-            </description>
-            <pubDate>Fri, 12 Oct 2018 16:05:00 +0200</pubDate>
-            <dc:creator>Ioannis Papadopoulos</dc:creator>
-            <category>Novinky</category>
-        </item>
-        <item>
-            <title>Honor otevřel svůj první prodejní stánek v ČR a fronty byly... – Aktualizováno o fotografie z místa
+            <title>
+                Soukromé konverzace z Facebooku jsou na prodej, hackeři chtějí zpeněžit své úlovky
             </title>
             <link>
-                https://mobilenet.cz/clanky/honor-otevira-svuj-prvni-prodejni-stanek-v-cr-a-nabidne-slevy-na-telefony-az-80--36243
+                https://www.zive.cz/clanky/soukrome-konverzace-z-facebooku-jsou-na-prodej-hackeri-chteji-zpenezit-sve-ulovky/sc-3-a-195759/default.aspx
             </link>
-            <guid>
-                https://mobilenet.cz/clanky/honor-otevira-svuj-prvni-prodejni-stanek-v-cr-a-nabidne-slevy-na-telefony-az-80--36243
-            </guid>
-            <description>&lt;img src=&quot;https://mobilenet.cz/obrazek/ikonka-288645&quot; alt=&quot;Honor otevřel svůj
-                první prodejní stánek v ČR a fronty byly...&quot; style=&quot;display: block;&quot;&gt;Honor dnes ve
-                14:00 otevřel v pražském Obchodním centru Chodov svůj prodejní stánek, který je první nejen v České
-                republice, ale i ve střední a východní Evropě&#13;
-                Slavnostní otevření uvedli George Zhao, který je prezidentem značky Honor, a Alex Wangxi, Country
-                Manager Honor&#13;
-                Součástí otevření byly výrazné slevy na vybrané modely – například Honor 7C zákazníci koupili s 80%
-                slevou&#13;
-                Samozřejmě se tvořily očekávané fronty
+            <guid isPermaLink="false">195759-zive.cz</guid>
+            <description>
+                Další způsob, jak hackeři nakládají s kradenými daty, odhalila tento týden televize BBC. Ruští útočníci podle ní vystavili na internet reklamu, že mají k prodeji tisíce soukromých zpráv z účtů Facebooku, které získali skrze infikovaný doplněk do prohlížeče. Reklamní nabídka se objevila na jednom ...
             </description>
-            <pubDate>Fri, 12 Oct 2018 16:00:00 +0200</pubDate>
-            <dc:creator>Marek Vacovský</dc:creator>
-            <category>Novinky</category>
+            <pubDate>Fri, 2 Nov 2018 16:18:00 GMT</pubDate>
+            <dc:creator>Markéta Mikešová</dc:creator>
         </item>
         <item>
-            <title>Motorola One přichází na český trh a levná rozhodně není</title>
-            <link>https://mobilenet.cz/clanky/motorola-one-prichazi-na-cesky-trh-a-levna-rozhodne-neni-36296</link>
-            <guid>https://mobilenet.cz/clanky/motorola-one-prichazi-na-cesky-trh-a-levna-rozhodne-neni-36296</guid>
-            <description>&lt;img src=&quot;https://mobilenet.cz/obrazek/ikonka-285958&quot; alt=&quot;Motorola One
-                přichází na český trh a levná rozhodně není&quot; style=&quot;display: block;&quot;&gt;Od pondělí bude
-                na českém trhu v prodeji Motorola One&#13;
-                Startovací cena se nakonec vyšplhala na 7 699 Kč
-            </description>
-            <pubDate>Fri, 12 Oct 2018 15:00:00 +0200</pubDate>
-            <dc:creator>Michal Pavlíček</dc:creator>
-            <category>Novinky</category>
-        </item>
-        <item>
-            <title>Huawei Mate 20 Pro se z nuly na 70 % nabije za půl hodinky – 21× aktualizováno</title>
+            <title>
+                Španělsko vyhlásilo válku homeopatii: Ukončilo prodej zhruba 12 000 „léků“
+            </title>
             <link>
-                https://mobilenet.cz/clanky/chystany-huawei-mate-20-zboril-antutu-kdyz-ziskal-pres-350-tisic-bodu-34925
+                https://vtm.zive.cz/clanky/spanelsko-vyhlasilo-valku-homeopatii-ukoncilo-prodej-zhruba-12-000-leku/sc-870-a-195750/default.aspx
             </link>
-            <guid>
-                https://mobilenet.cz/clanky/chystany-huawei-mate-20-zboril-antutu-kdyz-ziskal-pres-350-tisic-bodu-34925
-            </guid>
-            <description>&lt;img src=&quot;https://mobilenet.cz/obrazek/ikonka-287637&quot; alt=&quot;Huawei Mate 20 Pro
-                se z nuly na 70 % nabije za půl hodinky&quot; style=&quot;display: block;&quot;&gt;Na IFě bylo
-                potvrzeno, že modely Mate 20 budou odhaleny až 16. října&#13;
-                Huawei Mate 20 Pro bude mít uspořádání fotoaparátů do čtverce&#13;
-                Huawei pro něj připravuje procesor Kirin 980 vyrobený 7nm technologií&#13;
-                Varianta s přídomkem Pro má nabídnout zakřivený OLED panel
+            <guid isPermaLink="false">195750-zive.cz</guid>
+            <description>
+                Španělské ministerstvo zdravotnictví zveřejnilo seznam 2008 homeopatických přípravků, jejichž výrobci budou muset zažádat o oficiální vládní licenci – tedy za předpokladu, že chtějí i nadále pokračovat v jejich prodeji. K získání licence ovšem bude zapotřebí doložit (nejpozději do dubna příštího ...
             </description>
-            <pubDate>Fri, 12 Oct 2018 14:45:00 +0200</pubDate>
-            <dc:creator>Michal Pavlíček, Martin Fajmon, Ioannis Papadopoulos</dc:creator>
-            <category>Novinky</category>
+            <pubDate>Fri, 2 Nov 2018 15:00:00 GMT</pubDate>
+            <dc:creator>Jiří Černý</dc:creator>
         </item>
         <item>
-            <title>Skládací smartphone od Samsungu poslouží v rozloženém stavu jako tablet – 7× aktualizováno</title>
+            <title>
+                Před 30 lety zaútočil první internetový červ Morris. Síť zkolabovala
+            </title>
             <link>
-                https://mobilenet.cz/clanky/skladaci-samsung-galaxy-x-by-mel-do-roka-dorazit-pripravte-si-50-tisic-35390
+                https://www.zive.cz/clanky/prvni-internetovy-cerv-morris/sc-3-a-195756/default.aspx
             </link>
-            <guid>
-                https://mobilenet.cz/clanky/skladaci-samsung-galaxy-x-by-mel-do-roka-dorazit-pripravte-si-50-tisic-35390
-            </guid>
-            <description>&lt;img src=&quot;https://mobilenet.cz/obrazek/ikonka-264982&quot; alt=&quot;Skládací
-                smartphone od Samsungu poslouží v rozloženém stavu jako tablet&quot; style=&quot;display: block;&quot;&gt;První
-                skládací Samsung má mít OLED displej se 7palcovou úhlopříčkou, která půjde složit napůl &#13;
-                K představení by mělo dojít ještě v roce 2018&#13;
-                Cena se má pohybovat nad hranicí 50 tisíc korun
+            <guid isPermaLink="false">195756-zive.cz</guid>
+            <description>
+                2. listopad 1988 se do dějin internetu zapsal černou kaňkou • Objevil se totiž první internetový červ Morris • Chyba v jeho kódu vyústila v rozpad tehdejší internetové sítě
             </description>
-            <pubDate>Fri, 12 Oct 2018 13:35:00 +0200</pubDate>
-            <dc:creator>Michal Pavlíček, Martin Fajmon</dc:creator>
-            <category>Novinky</category>
+            <pubDate>Fri, 2 Nov 2018 14:15:00 GMT</pubDate>
+            <dc:creator>Karel Kilián</dc:creator>
         </item>
         <item>
-            <title>A vy se v nich ještě vyznáte? Byl představen nový Honor 8C</title>
-            <link>https://mobilenet.cz/clanky/a-vy-se-v-nich-jeste-vyznate-byl-predstaven-novy-honor-8c-36294</link>
-            <guid>https://mobilenet.cz/clanky/a-vy-se-v-nich-jeste-vyznate-byl-predstaven-novy-honor-8c-36294</guid>
-            <description>&lt;img src=&quot;https://mobilenet.cz/obrazek/ikonka-288566&quot; alt=&quot;A vy se v nich
-                ještě vyznáte? Byl představen nový Honor 8C&quot; style=&quot;display: block;&quot;&gt;Výbava stojí na
-                6,26palcovém HD+ displeji&#13;
-                Jako procesor výrobce použil méně obvyklý Snapdragon 632&#13;
-                Nechybí duální fotoaparát či dostatečně silná baterie
-            </description>
-            <pubDate>Fri, 12 Oct 2018 11:45:00 +0200</pubDate>
-            <dc:creator>Michal Pavlíček</dc:creator>
-            <category>Novinky</category>
-        </item>
-        <item>
-            <title>Nokia 3.1 Plus je dostupnou novinkou s 6palcovým displejem bez výřezu</title>
+            <title>
+                Softwarový výrobce bojuje proti pirátství odposlechem a drakonickými tresty
+            </title>
             <link>
-                https://mobilenet.cz/clanky/nokia-31-plus-je-dostupnou-novinkou-s-6palcovym-displejem-bez-vyrezu-36293
+                https://www.zive.cz/clanky/softwarovy-vyrobce-bojuje-proti-piratstvi-odposlechem-a-drakonickymi-tresty/sc-3-a-195755/default.aspx
             </link>
-            <guid>
-                https://mobilenet.cz/clanky/nokia-31-plus-je-dostupnou-novinkou-s-6palcovym-displejem-bez-vyrezu-36293
-            </guid>
-            <description>&lt;img src=&quot;https://mobilenet.cz/obrazek/ikonka-288560&quot; alt=&quot;Nokia 3.1 Plus je
-                dostupnou novinkou s 6palcovým displejem bez výřezu&quot; style=&quot;display: block;&quot;&gt;Výkon
-                telefonu má na starost procesor Helio P22 s až 3GB RAM&#13;
-                Zadní strana je domovem duálního fotoaparátu&#13;
-                Novinka spadá s Oreem do programu Android One
+            <guid isPermaLink="false">195755-zive.cz</guid>
+            <description>
+                Programy jako Photoshop aj. patří už roky k těm nejrozšířenějším na osobních počítačích, i když v nemalém procentu případů se jedná o instalace bez patřičné licence – tedy o zjevné pirátství a krádež. Kdyby tomu tak nebylo, Adobe musí být s trochou nadsázky bohatší než Apple. Britskému studiu ...
             </description>
-            <pubDate>Fri, 12 Oct 2018 11:20:00 +0200</pubDate>
-            <dc:creator>Michal Pavlíček</dc:creator>
-            <category>Novinky</category>
+            <pubDate>Fri, 2 Nov 2018 13:50:00 GMT</pubDate>
+            <dc:creator>Jakub Čížek</dc:creator>
         </item>
         <item>
-            <title>Chytrý náramek Honor Band 4 zaujme cenou i funkcemi. Sesadí z trůnu Xiaomi Mi Band 3?</title>
+            <title>
+                Tajuplná čínská raketa by mohla ohrozit vzdušnou sílu amerického letectva
+            </title>
             <link>
-                https://mobilenet.cz/clanky/chytry-naramek-honor-band-4-zaujme-cenou-i-funkcemi-sesadi-z-trunu-xiaomi-mi-band-3-36292
+                https://vtm.zive.cz/clanky/tajuplna-cinska-raketa-by-mohla-ohrozit-vzdusnou-silu-americkeho-letectva/sc-870-a-195747/default.aspx
             </link>
-            <guid>
-                https://mobilenet.cz/clanky/chytry-naramek-honor-band-4-zaujme-cenou-i-funkcemi-sesadi-z-trunu-xiaomi-mi-band-3-36292
-            </guid>
-            <description>&lt;img src=&quot;https://mobilenet.cz/obrazek/ikonka-288553&quot; alt=&quot;Chytrý náramek
-                Honor Band 4 zaujme cenou i funkcemi. Sesadí z trůnu Xiaomi Mi Band 3?&quot; style=&quot;display: block;&quot;&gt;Chytrý
-                náramek Honor Band 4 se bude prodávat za 1 299 Kč&#13;
-                Nabídne voděodolnost do hloubky až 50 metrů a barevný AMOLED displej
+            <guid isPermaLink="false">195747-zive.cz</guid>
+            <description>
+                Čínské letectvo vyvíjí záhadnou raketu typu vzduch-vzduch • Mysteriózní zbraň nese označení PL-XX • Jde o raketu vzduch-vzduch s velmi dalekým doletem
             </description>
-            <pubDate>Fri, 12 Oct 2018 11:20:00 +0200</pubDate>
-            <dc:creator>Ioannis Papadopoulos</dc:creator>
-            <category>Novinky</category>
+            <pubDate>Fri, 2 Nov 2018 11:00:00 GMT</pubDate>
+            <dc:creator>Stanislav Mihulka</dc:creator>
         </item>
         <item>
-            <title>Honor 8X s poměrem displeje k tělu 91 % oficiálně představen na Pražském hradě</title>
+            <title>
+                Apple čekají změny. iPhony už tolik netáhnou, ale ekosystém služeb masivně roste
+            </title>
             <link>
-                https://mobilenet.cz/clanky/honor-8x-s-pomerem-displeje-k-telu-91-oficialne-predstaven-na-prazskem-hrade-36285
+                https://connect.zive.cz/clanky/apple-cekaji-zmeny-iphony-uz-tolik-netahnou-ale-ekosystem-sluzeb-masivne-roste/sc-320-a-195748/default.aspx
             </link>
-            <guid>
-                https://mobilenet.cz/clanky/honor-8x-s-pomerem-displeje-k-telu-91-oficialne-predstaven-na-prazskem-hrade-36285
-            </guid>
-            <description>&lt;img src=&quot;https://mobilenet.cz/obrazek/ikonka-288452&quot; alt=&quot;Honor 8X s poměrem
-                displeje k tělu 91 % oficiálně představen na Pražském hradě&quot; style=&quot;display: block;&quot;&gt;Honor
-                8X nabídne ohromující 6,5palcový displej a baterii s kapacitou 3 750 mAh&#13;
-                Přítomný bude duální fotoaparát s rozlišením 20 + 2 Mpx a podporou AI&#13;
-                Nabízen bude v 64GB variantě za 6 990 Kč a 128GB variantě za 7 990 Kč
+            <guid isPermaLink="false">195748-zive.cz</guid>
+            <description>
+                Apple zveřejnil finanční výsledky za čtvrté čtvrtletí fiskálního roku 2018 • Příjem i zisk překonal očekávání, ale prodeje iPhonů stagnují • Apple ale roste ve službách a zvyšuje průměrnou prodejní cenu iPhonu
             </description>
-            <pubDate>Thu, 11 Oct 2018 18:30:00 +0200</pubDate>
-            <dc:creator>Ioannis Papadopoulos</dc:creator>
-            <category>Novinky</category>
+            <pubDate>Fri, 2 Nov 2018 10:39:00 GMT</pubDate>
+            <dc:creator>Karel Javůrek</dc:creator>
         </item>
         <item>
-            <title>Skvělý #mobileDrink 12 už tento týden. Těšit se můžete nejenom na iPhone Xs Max</title>
-            <link>https://mobilenet.cz/clanky/skvely-mobiledrink-12-uz-pristi-tyden-prihlaste-se-tady-a-ted-36280</link>
-            <guid>https://mobilenet.cz/clanky/skvely-mobiledrink-12-uz-pristi-tyden-prihlaste-se-tady-a-ted-36280</guid>
-            <description>&lt;img src=&quot;https://mobilenet.cz/obrazek/ikonka-280596&quot; alt=&quot;Skvělý
-                #mobileDrink 12 už tento týden. Těšit se můžete nejenom na iPhone Xs Max&quot; style=&quot;display:
-                block;&quot;&gt;Spouštíme ostré přihlašování na mobileDrink v Olomouci&#13;
-                Konat se bude ve čtvrtek 18. října od 18:30&#13;
-                K vyzkoušení budou nejnovější mobily, wearables a svézt se budete moci také Teslou a prohlédnout si
-                elektromobil Jaguar I-Pace&#13;
-                Tématem bude 5G a zúčastnit se můžete také soutěže o iPhone, stačí natočit zajímavé video
-            </description>
-            <pubDate>Thu, 11 Oct 2018 18:00:00 +0200</pubDate>
-            <dc:creator>Martin Pultzner</dc:creator>
-            <category>Novinky</category>
-        </item>
-        <item>
-            <title>Máme v redakci luxusní Huawei Mate RS Porsche Design</title>
-            <link>https://mobilenet.cz/clanky/mame-v-redakci-luxusni-huawei-mate-rs-porsche-design-36290</link>
-            <guid>https://mobilenet.cz/clanky/mame-v-redakci-luxusni-huawei-mate-rs-porsche-design-36290</guid>
-            <description>&lt;img src=&quot;https://mobilenet.cz/obrazek/ikonka-288542&quot; alt=&quot;Máme v redakci
-                luxusní Huawei Mate RS Porsche Design&quot; style=&quot;display: block;&quot;&gt;Telefon nabídne
-                prémiové zpracování i unikátní funkce, třeba v podobě dvou čteček otisků&#13;
-                Chlubí se také povedeným displejem a trojicí čoček fotoaparátu na zadní straně&#13;
-                Model začínáme testovat a dnes pro vás máme první pohled
-            </description>
-            <pubDate>Thu, 11 Oct 2018 16:00:00 +0200</pubDate>
-            <dc:creator>Petr Vojtěch</dc:creator>
-            <category>Novinky</category>
-        </item>
-        <item>
-            <title>Razer jde hráčům naproti! Ovladač Razer Raiju Mobile uspokojí i ty nejnáročnější</title>
+            <title>
+                Tesla v režimu autopilota nabourala do stojícího auta, majitel podává žalobu
+            </title>
             <link>
-                https://mobilenet.cz/clanky/razer-jde-hracum-naproti-ovladac-razer-raiju-mobile-uspokoji-i-ty-nejnarocnejsi-36289
+                https://www.zive.cz/clanky/tesla-v-rezimu-autopilota-nabourala-do-stojiciho-auta-majitel-podava-zalobu/sc-3-a-195709/default.aspx
             </link>
-            <guid>
-                https://mobilenet.cz/clanky/razer-jde-hracum-naproti-ovladac-razer-raiju-mobile-uspokoji-i-ty-nejnarocnejsi-36289
-            </guid>
-            <description>&lt;img src=&quot;https://mobilenet.cz/obrazek/ikonka-288508&quot; alt=&quot;Razer jde hráčům
-                naproti! Ovladač Razer Raiju Mobile uspokojí i ty nejnáročnější&quot; style=&quot;display: block;&quot;&gt;Razer
-                Raiju Mobile je drahým herním ovladačem s nekompromisní výbavou&#13;
-                Přítomna jsou mapovatelná tlačítka i baterie s výdrží až 23 hodin&#13;
-                Podporovány budou všechny smartphony s Androidem 6 a výše&#13;
-                Spojení mezi ovladačem a smartphonem probíhá skrze USB-C či Bluetooth
+            <guid isPermaLink="false">195709-zive.cz</guid>
+            <description>
+                Tesla Model S nabourala na dálnici do stojícího auta • V tu chvíli jela v režimu autopilota, zatímco řidič odpočíval • Hudson nyní žaluje Teslu, že slibuje něco, co neplní
             </description>
-            <pubDate>Thu, 11 Oct 2018 15:00:00 +0200</pubDate>
-            <dc:creator>Ioannis Papadopoulos</dc:creator>
-            <category>Novinky</category>
+            <pubDate>Fri, 2 Nov 2018 07:33:00 GMT</pubDate>
+            <dc:creator>Karel Kilián</dc:creator>
         </item>
         <item>
-            <title>Potvrzeno! OnePlus 6T bude mít optickou čtečku otisků prstů v displeji – 8× aktualizováno</title>
+            <title>
+                Kvantový internet se blíží. Oproti tomu klasickému bude mnohem bezpečnější
+            </title>
             <link>
-                https://mobilenet.cz/clanky/oneplus-6t-zamiri-do-boje-s-3d-fotoaparatem-a-vylepsenym-rychlonabijenim-35879
+                https://connect.zive.cz/clanky/kvantovy-internet-se-blizi-oproti-tomu-klasickemu-bude-mnohem-bezpecnejsi/sc-320-a-195731/default.aspx
             </link>
-            <guid>
-                https://mobilenet.cz/clanky/oneplus-6t-zamiri-do-boje-s-3d-fotoaparatem-a-vylepsenym-rychlonabijenim-35879
-            </guid>
-            <description>&lt;img src=&quot;https://mobilenet.cz/obrazek/ikonka-288056&quot; alt=&quot;Potvrzeno! OnePlus
-                6T bude mít optickou čtečku otisků prstů v displeji&quot; style=&quot;display: block;&quot;&gt;3,5mm
-                jacku se nedočkáme, v balení však najdeme alespoň redukci z USB-C&#13;
-                OnePlus 6T by měl disponovat 3D kamerou s vylepšenou rozšířenou realitou&#13;
-                Telefon bude mít rychlé nabíjení, 40 % baterie dobije jen za 10 minut, v mnohém si bere inspiraci od
-                Oppo R17&#13;
-                K představení dojde zřejmě 30. října
+            <guid isPermaLink="false">195731-zive.cz</guid>
+            <description>
+                Jednotlivé bloky kvantového internetu už se pomalu vyvíjí a testují • Kvantová síť už bude mít své uplatnění dříve, než bude všude dostupný kvantový internet • Nejdříve půjde o doplněk ke klasickému internetu
             </description>
-            <pubDate>Thu, 11 Oct 2018 13:05:00 +0200</pubDate>
-            <dc:creator>Ioannis Papadopoulos, Michal Pavlíček, Vojtěch Zrůst</dc:creator>
-            <category>Novinky</category>
+            <pubDate>Fri, 2 Nov 2018 10:22:00 GMT</pubDate>
+            <dc:creator>Karel Javůrek</dc:creator>
         </item>
         <item>
-            <title>To není Photoshop. Vyzkoušeli jsme Samsung Galaxy A9 se 4 foťáky na zádech</title>
+            <title>
+                Alphabet má možná problém. Růst příjmu zpomaluje, ale záchranou může být Waymo
+            </title>
             <link>
-                https://mobilenet.cz/clanky/to-neni-photoshop-vyzkouseli-jsme-samsung-galaxy-a9-se-4-fotaky-na-zadech-36288
+                https://connect.zive.cz/clanky/alphabet-ma-mozna-problem-rust-prijmu-zpomaluje-ale-zachranou-muze-byt-waymo/sc-320-a-195687/default.aspx
             </link>
-            <guid>
-                https://mobilenet.cz/clanky/to-neni-photoshop-vyzkouseli-jsme-samsung-galaxy-a9-se-4-fotaky-na-zadech-36288
-            </guid>
-            <description>&lt;img src=&quot;https://mobilenet.cz/obrazek/ikonka-288478&quot; alt=&quot;To není Photoshop.
-                Vyzkoušeli jsme Samsung Galaxy A9 se 4 foťáky na zádech&quot; style=&quot;display: block;&quot;&gt;První
-                dojmy z italského Milána přináší fotografie i video nového Samsungu Galaxy A9 se 4 zadními fotoaparáty&#13;
-                Zahrnut je širokoúhlý senzor se 120stupňovým záběrem, teleobjektiv s dvojnásobným zoomem nebo doplňkový
-                fotoaparát pro bokeh efekt&#13;
-                Samsung Galaxy A9 se v Česku začne prodávat v půlce listopadu za 15 tisíc korun
+            <guid isPermaLink="false">195687-zive.cz</guid>
+            <description>
+                Alphabet, pod kterých spadá Google ale i další divize (včetně Waymo pro autonomní vozy), zveřejnil aktuální finanční výsledky za poslední tři měsíce a investoři nejsou zrovna nadšení. Alphabet skončil s příjmem 33,7 miliardy dolarů, což je sice velmi dobré meziroční zvýšení o 21 %, problém je ...
             </description>
-            <pubDate>Thu, 11 Oct 2018 13:00:00 +0200</pubDate>
-            <dc:creator>Martin Pultzner, Ioannis Papadopoulos, Petr Vojtěch</dc:creator>
-            <category>Novinky</category>
+            <pubDate>Fri, 2 Nov 2018 10:14:00 GMT</pubDate>
+            <dc:creator>Karel Javůrek</dc:creator>
         </item>
         <item>
-            <title>V novém teaseru na Honor Magic 2 si smartphone prohlédnete ze všech stran – 2× aktualizováno</title>
-            <link>https://mobilenet.cz/clanky/honor-magic-2-jiz-zna-datum-sve-premiery-predstavi-se-koncem-rijna-36093
+            <title>
+                Flickr připravuje velké změny. Zaměří se na placené účty
+            </title>
+            <link>
+                https://www.zive.cz/clanky/flickr-pripravuje-velke-zmeny-zameri-se-na-placene-ucty/sc-3-a-195746/default.aspx
             </link>
-            <guid>https://mobilenet.cz/clanky/honor-magic-2-jiz-zna-datum-sve-premiery-predstavi-se-koncem-rijna-36093
-            </guid>
-            <description>&lt;img src=&quot;https://mobilenet.cz/obrazek/ikonka-285770&quot; alt=&quot;V novém teaseru na
-                Honor Magic 2 si smartphone prohlédnete ze všech stran&quot; style=&quot;display: block;&quot;&gt;Výsuvný
-                smartphone bude lákat na displej přes celou čelní stranu&#13;
-                Samozřejmostí má být výkonný procesor Kirin 980&#13;
-                K představení by mělo dojít 31. října
+            <guid isPermaLink="false">195746-zive.cz</guid>
+            <description>
+                Svůj charakter se postupně snaží změnit úložiště pro fotografie Flickr, které letos koupila společnost SmugMug. Služba oznámila, že se chystá vyřešit několik problémů, s kterými se potýká, včetně spamu, přihlašování přes Yahoo, zákaznickou podporu a především mění strukturu svých účtů. Nově tak ...
             </description>
-            <pubDate>Thu, 11 Oct 2018 12:20:00 +0200</pubDate>
-            <dc:creator>Michal Pavlíček, Ioannis Papadopoulos</dc:creator>
-            <category>Novinky</category>
+            <pubDate>Fri, 2 Nov 2018 08:06:00 GMT</pubDate>
+            <dc:creator>Markéta Mikešová</dc:creator>
+        </item>
+        <item>
+            <title>
+                Na WhatsApp míří první reklamy. Bylo to nevyhnutelné
+            </title>
+            <link>
+                https://www.zive.cz/clanky/na-whatsapp-miri-prvni-reklamy-bylo-to-nevyhnutelne/sc-3-a-195745/default.aspx
+            </link>
+            <guid isPermaLink="false">195745-zive.cz</guid>
+            <description>
+                Po dlouhých letech fám a odchodu dvou spoluzakladatelů z firmy se děje to, o čem všichni věděli, že se nejspíš stane, ale doufali, že k tomu nakonec nedojde. Na WhatsApp přicházejí první reklamy, potvrdil viceprezident společnosti Chris Daniels. Začnou se objevovat ve funkci Status a mají být ...
+            </description>
+            <pubDate>Fri, 2 Nov 2018 07:09:00 GMT</pubDate>
+            <dc:creator>Markéta Mikešová</dc:creator>
+        </item>
+        <item>
+            <title>
+                V Istanbulu otevřeli první část obřího letiště. Zanedlouho bude největší na světě
+            </title>
+            <link>
+                https://vtm.zive.cz/clanky/v-istanbulu-otevreli-prvni-cast-obriho-letiste-zanedlouho-bude-nejvetsi-na-svete/sc-870-a-195722/default.aspx
+            </link>
+            <guid isPermaLink="false">195722-zive.cz</guid>
+            <description>
+                V pondělí turecký prezident Erdogan otevřel v Istanbulu první část nového letiště. To nahrazuje dosavadní Atatürkovo letiště, které bude uzavřeno v prosinci. Právě dokončovaná stavba aktuálně obslouží přibližně 90 milionů cestujících za rok, po dokončení by to mělo být až 200 milionů. Stane se tak ...
+            </description>
+            <pubDate>Fri, 2 Nov 2018 07:00:00 GMT</pubDate>
+            <dc:creator>Vladislav Kluska</dc:creator>
+        </item>
+        <item>
+            <title>
+                Dobré vědět: Jaké jsou nejrychlejší stroje, které kdy člověk vyrobil
+            </title>
+            <link>
+                https://vtm.zive.cz/clanky/dobre-vedet-jake-jsou-nejrychlejsi-stroje-ktere-kdy-clovek-vyrobil/sc-870-a-195743/default.aspx
+            </link>
+            <guid isPermaLink="false">195743-zive.cz</guid>
+            <description>
+                Nejrychlejší stroj vyrobený člověkem musel zpomalit, aby rekordu dosáhl • Na špičce jsou pochopitelně vesmírné sondy • Nejrychlejší parní stroj stanovil rekord kupodivu docela nedávno
+            </description>
+            <pubDate>Thu, 1 Nov 2018 18:00:00 GMT</pubDate>
+            <dc:creator>Jiří Dobrý</dc:creator>
+        </item>
+        <item>
+            <title>
+                Google se chlubí novým testem reCAPTCHA v3. Měl by být ještě chytřejší a webmasteři dostanou lepší kontrolu
+            </title>
+            <link>
+                https://www.zive.cz/clanky/google-se-chlubi-novym-testem-recaptcha-v3-mel-by-byt-jeste-chytrejsi-a-webmasteri-dostanou-lepsi-kontrolu/sc-3-a-195744/default.aspx
+            </link>
+            <guid isPermaLink="false">195744-zive.cz</guid>
+            <description>
+                Google se pochlubil novou verzí své služby reCAPTCHA v3. Třetí generace populárního testu pro webové stránky, který se pokouší odhalit, zdali jste člověk, nebo robot, což se hodí v diskuzích a formulářích, slibuje úplně nový koncept. Už v předchozí verzi Google změnil chování tak, abyste ...
+            </description>
+            <pubDate>Thu, 1 Nov 2018 16:55:00 GMT</pubDate>
+            <dc:creator>Jakub Čížek</dc:creator>
+        </item>
+        <item>
+            <title>
+                Evropská komise chce „eurodetektor lži.“ Bude jej testovat v Maďarsku i Řecku
+            </title>
+            <link>
+                https://www.zive.cz/clanky/evropska-komise-chce-eurodetektor-lzi-bude-jej-testovat-v-madarsku-i-recku/sc-3-a-195739/default.aspx
+            </link>
+            <guid isPermaLink="false">195739-zive.cz</guid>
+            <description>
+                Hranice Evropské unie každý rok překročí 700 milionů osob a toto číslo se rok od roku zvyšuje. Unie proto podobně jako ostatní hledá nové technologie, které by mohly uspíšit odbavení cestujících. Jednou z nich je projekt s nepříliš atraktivním názvem iBorderCtrl. Vítej cestovateli, jsem automat a ...
+            </description>
+            <pubDate>Thu, 1 Nov 2018 16:15:00 GMT</pubDate>
+            <dc:creator>Jakub Čížek</dc:creator>
+        </item>
+        <item>
+            <title>
+                Google a iRobot spojují síly, chtějí zmapovat chytré domácnosti robotickými vysavači
+            </title>
+            <link>
+                https://www.zive.cz/clanky/google-a-irobot-spojuji-sily-chteji-zmapovat-chytre-domacnosti-robotickymi-vysavaci/sc-3-a-195736/default.aspx
+            </link>
+            <guid isPermaLink="false">195736-zive.cz</guid>
+            <description>
+                Společnosti Google a iRobot oznámily uzavření partnerství, jehož cílem je najít další způsoby, jak propojit produkty chytré domácnosti s Asistentem Google. V rámci spolupráce chce vyhledávací gigant využít i mapy domácností, sestavené robotickými vysavači Roomba. Nejvyšší modely robotických ...
+            </description>
+            <pubDate>Thu, 1 Nov 2018 12:35:00 GMT</pubDate>
+            <dc:creator>Karel Kilián</dc:creator>
+        </item>
+        <item>
+            <title>
+                NASA chce vyrábět raketové palivo z marsovské půdy. Pomáhat s tím budou roboti
+            </title>
+            <link>
+                https://vtm.zive.cz/clanky/nasa-chce-vyrabet-raketove-palivo-z-marsovske-pudy-pomahat-s-tim-budou-roboti/sc-870-a-195735/default.aspx
+            </link>
+            <guid isPermaLink="false">195735-zive.cz</guid>
+            <description>
+                Nedávno jsme psali o tom, že budoucí kolonisté Marsu by si na sofistikovaných 3D tiskárnách mohli tisknout klidně i celé rakety. Ale kde pro ně vzít pohonné hmoty? Hledáním odpovědi na tuto otázku se zabývají odborníci z NASA pod vedením Kurta Leuchta. Ten je přesvědčen o tom, že raketové palivo ...
+            </description>
+            <pubDate>Thu, 1 Nov 2018 15:00:00 GMT</pubDate>
+            <dc:creator>Jiří Černý</dc:creator>
+        </item>
+        <item>
+            <title>
+                Když potřebujete hodně místa: WD má nové disky s kapacitou 14 TB a 15 TB
+            </title>
+            <link>
+                https://www.zive.cz/clanky/kdyz-potrebujete-hodne-mista-wd-ma-nove-disky-skapacitou-14-tb-a-15-tb/sc-3-a-195730/default.aspx
+            </link>
+            <guid isPermaLink="false">195730-zive.cz</guid>
+            <description>
+                Pokud potřebujete opravdu dostatek místa pro ukládání dat a přitom chcete použít pouze jeden klasický 3,5palcový disk, možná vás zaujmou nové modely pevných disků od Western Digital, které jsou zaměřené primárně pro podnikové nasazení. Nové modely HGST Ultrastar DC HC620 jsou postavené na ...
+            </description>
+            <pubDate>Thu, 1 Nov 2018 15:29:00 GMT</pubDate>
+            <dc:creator>Karel Javůrek</dc:creator>
+        </item>
+        <item>
+            <title>
+                Příjem i zisk Intelu stále neuvěřitelně roste. Překonal odhady o miliardy dolarů
+            </title>
+            <link>
+                https://connect.zive.cz/clanky/prijem-i-zisk-intelu-stale-neuveritelne-roste-prekonal-odhady-o-miliardy-dolaru/sc-320-a-195691/default.aspx
+            </link>
+            <guid isPermaLink="false">195691-zive.cz</guid>
+            <description>
+                Intel zveřejnil finanční výsledky za třetí čtvrtletí tohoto roku a i tentokrát pokračuje v nastoleném tempu. Významně zvyšuje jak příjem, tak i zisk. Celkový příjem Intelu se za poslední tři měsíce dostal na 19,2 miliardy dolarů, což je o téměř miliardu dolarů více oproti odhadům investorů (18,4 ...
+            </description>
+            <pubDate>Thu, 1 Nov 2018 13:06:00 GMT</pubDate>
+            <dc:creator>Karel Javůrek</dc:creator>
+        </item>
+        <item>
+            <title>
+                Podívejte se na graf, který názorně ilustruje, jak drasticky se proměnil hudební průmysl
+            </title>
+            <link>
+                https://connect.zive.cz/clanky/podivejte-se-na-graf-ktery-nazorne-ilustruje-jak-drasticky-se-promenil-hudebni-prumysl/sc-320-a-195716/default.aspx
+            </link>
+            <guid isPermaLink="false">195716-zive.cz</guid>
+            <description>
+                Nejedná se o žádnou novinku, českým Facebookem však čerstvě prolétla x-tá varianta na časový graf prodeje muziky podle americké asociace RIAA, který stojí za to připomenout, skutečně totiž názorně ilustruje, jak se v posledních letech transformuje celý hudební průmysl. Graf znázorňuje výnosy z ...
+            </description>
+            <pubDate>Wed, 31 Oct 2018 12:39:00 GMT</pubDate>
+            <dc:creator>Jakub Čížek</dc:creator>
+        </item>
+        <item>
+            <title>
+                Listujeme novým Computerem: proč stačí mobil s Androidem za čtyři tisíce?
+            </title>
+            <link>
+                https://www.zive.cz/clanky/listujeme-novym-computerem-proc-staci-mobil-s-androidem-za-ctyri-tisice/sc-3-a-195742/default.aspx
+            </link>
+            <guid isPermaLink="false">195742-zive.cz</guid>
+            <description>
+                Odkryli jsme skrytá nastavení Windows 10 • Velký test levných telefonů s Androidem • Otestovali jsme úsporné minipočítače
+            </description>
+            <pubDate>Thu, 1 Nov 2018 12:31:00 GMT</pubDate>
+            <dc:creator>Časopis Computer</dc:creator>
+        </item>
+        <item>
+            <title>
+                Překonal předsudky a objevil tisíce světů: lovec exoplanet Kepler skončil
+            </title>
+            <link>
+                https://vtm.zive.cz/clanky/prekonal-predsudky-a-objevil-tisice-svetu-lovec-exoplanet-kepler-skoncil/sc-870-a-195711/default.aspx
+            </link>
+            <guid isPermaLink="false">195711-zive.cz</guid>
+            <description>
+                Kosmický Kepler po více než 9 letech skončil, došlo mu palivo • Během své mise objevil tisíce exoplanet • Dalekohled zůstane na dráze okolo Slunce.
+            </description>
+            <pubDate>Thu, 1 Nov 2018 11:00:00 GMT</pubDate>
+            <dc:creator>Petr Kubala</dc:creator>
+        </item>
+        <item>
+            <title>
+                eObčanka dostala aplikace pro Android, Linux a macOS. K telefonu potřebujete speciální čtečku
+            </title>
+            <link>
+                https://www.zive.cz/clanky/eobcanka-dostala-aplikace-pro-android-linux-a-macos-k-telefonu-potrebujete-specialni-ctecku/sc-3-a-195741/default.aspx
+            </link>
+            <guid isPermaLink="false">195741-zive.cz</guid>
+            <description>
+                Aplikace eObčanka pro obsluhu elektronického občanského průkazu byla doposud dostupná pouze pro Windows. Nyní se rozšiřuje i na operační systémy Linux, macOS a také na mobilní Android. Nejvíce zvědavosti budí mobilní verze aplikace. Také k mobilu totiž budete potřebovat hardwarovou ...
+            </description>
+            <pubDate>Thu, 1 Nov 2018 09:44:00 GMT</pubDate>
+            <dc:creator>David Polesný</dc:creator>
+        </item>
+        <item>
+            <title>
+                Nehodu Sojuzu způsobil senzor, Roskosmos uveřejnil i video (aktualizováno)
+            </title>
+            <link>
+                https://vtm.zive.cz/clanky/prave-ted-sledujte-online-start-rakety-sojuz-ms-10-s-kosmonauty-na-palube/sc-870-a-195451/default.aspx
+            </link>
+            <guid isPermaLink="false">195451-zive.cz</guid>
+            <description>
+                Během startu nosné rakety Sojuz se stejnojmennou kosmickou lodí došlo k mimořádné situaci. • Přibližně dvě minuty po startu se loď od rakety odpojila a nouzově přistála. • Závada byla patrně minimálně na jednom ze čtyř urychlovacích bloků. • Posádka je v pořádku.
+            </description>
+            <pubDate>Thu, 1 Nov 2018 10:08:00 GMT</pubDate>
+            <dc:creator>David Polesný, Petr Kubala</dc:creator>
+        </item>
+        <item>
+            <title>
+                Pozor na kalkulačku ve Windows, nebo propadnete z matematiky
+            </title>
+            <link>
+                https://www.zive.cz/clanky/pozor-na-kalkulacku-ve-windows-nebo-propadnete-z-matematiky/sc-3-a-195725/default.aspx
+            </link>
+            <guid isPermaLink="false">195725-zive.cz</guid>
+            <description>
+                Používáte kalkulačku ve Windows? Jeden z vás nám do redakčního e-mailu napsal stížnost, že nepočítá zcela korektně podle elementárních matematických zásad. Máme na mysli samozřejmě prioritu početních operací, tedy učivo ze základní školy. Jedná se o starý problém, který si však zaslouží ...
+            </description>
+            <pubDate>Wed, 31 Oct 2018 14:32:00 GMT</pubDate>
+            <dc:creator>Jakub Čížek</dc:creator>
+        </item>
+        <item>
+            <title>
+                Británie vymýšlí způsob, jak dostat Zuckerberga k výslechu. Už delší dobu se mu nechce
+            </title>
+            <link>
+                https://www.zive.cz/clanky/britanie-vymysli-zpusob-jak-dostat-zuckerberga-k-vyslechu-uz-delsi-dobu-se-mu-nechce/sc-3-a-195732/default.aspx
+            </link>
+            <guid isPermaLink="false">195732-zive.cz</guid>
+            <description>
+                Po jarním skandálu Facebooku kolem analytické firmy Cambridge Analytica šel Mark Zuckerberg vysvětlovat, k jaké škodě došlo, před americký Kongres a později před Evropský parlament. O výpověď před zákonodárci ho žádala i Velká Británie, její požadavek ale odmítl. Ostrovní stát to přesto nevzdává a ...
+            </description>
+            <pubDate>Thu, 1 Nov 2018 08:52:00 GMT</pubDate>
+            <dc:creator>Markéta Mikešová</dc:creator>
+        </item>
+        <item>
+            <title>
+                Delfíni museli zjednodušit svou komunikaci kvůli hluku produkovanému lidmi
+            </title>
+            <link>
+                https://vtm.zive.cz/clanky/delfini-museli-zjednodusit-svou-komunikaci-kvuli-hluku-produkovanemu-lidmi/sc-870-a-195697/default.aspx
+            </link>
+            <guid isPermaLink="false">195697-zive.cz</guid>
+            <description>
+                Delfíní skákaví museli dle výzkumu, provedeného Střediskem pro environmentální vědu při univerzitě v Marylandu, zjednodušit svou zvukovou komunikaci. Důvodem je hluk, produkovaný různými lidskými činnostmi. Změnu ve zvukových projevech objevili badatelé na základě záznamů, pořízených mikrofony ...
+            </description>
+            <pubDate>Thu, 1 Nov 2018 07:00:00 GMT</pubDate>
+            <dc:creator>Karel Kilián</dc:creator>
+        </item>
+        <item>
+            <title>
+                Vláda preferuje trvalý standardní čas, letní by se zrušil. Odborníci souhlasí
+            </title>
+            <link>
+                https://vtm.zive.cz/clanky/vlada-preferuje-trvaly-standardni-cas-letni-by-se-zrusil-odbornici-souhlasi/sc-870-a-195717/default.aspx
+            </link>
+            <guid isPermaLink="false">195717-zive.cz</guid>
+            <description>
+                Premiér Andrej Babiš dnes oznámil, že většina členů jeho kabinetu se přiklání k zavedení trvalého „zimního času“, který odpovídá času astronomickému. To znamená, že zrušen by měl být letní čas. Stejný názor mají i vědci, kteří upozorňují na to, že na jaře není dobré vstávat do tmy. Pro lidský ...
+            </description>
+            <pubDate>Wed, 31 Oct 2018 10:45:00 GMT</pubDate>
+            <dc:creator>Jiří Černý</dc:creator>
+        </item>
+        <item>
+            <title>
+                ELONOVINKY: Tesla začala vydělávat. Vyrábí efektivně a chystá nové věci
+            </title>
+            <link>
+                https://vtm.zive.cz/clanky/elonovinky-tesla-zacala-vydelavat-vyrabi-efektivne-a-chysta-nove-veci/sc-870-a-195724/default.aspx
+            </link>
+            <guid isPermaLink="false">195724-zive.cz</guid>
+            <description>
+                Tesla zefektivnila výrobu a je po letech strádání v zisku • Daří se i energetické divizi, která brzy nabídne solární tašky • V budoucnu chce Tesla konkurovat i taxislužbám a Uberu
+            </description>
+            <pubDate>Wed, 31 Oct 2018 19:00:00 GMT</pubDate>
+            <dc:creator>Petr Melechin, Karel Dlabač</dc:creator>
+        </item>
+        <item>
+            <title>
+                Ze sopky Arsia Mons na Marsu se „kouří,“ erupce to ale není
+            </title>
+            <link>
+                https://vtm.zive.cz/clanky/z-martanske-sopky-arsia-mons-se-kouri-erupce-to-ale-neni/sc-870-a-195714/default.aspx
+            </link>
+            <guid isPermaLink="false">195714-zive.cz</guid>
+            <description>
+                Z Marsu se kouří. Leckoho by možná napadlo, že to jen Mark Watney pálí ilegální skládku pneumatik, případně by ti bystřejší poukázali na vulkanickou činnost, skutečnost je však mnohem prozaičtější. Dávné marsovské sopky sice patří k těm nejvyšším a nejmohutnějším pohořím Sluneční soustavy, ...
+            </description>
+            <pubDate>Wed, 31 Oct 2018 15:00:00 GMT</pubDate>
+            <dc:creator>Jakub Čížek</dc:creator>
+        </item>
+        <item>
+            <title>
+                Nový Apple MacBook Air: konečně má pořádný displej, ale zatraceně podražil
+            </title>
+            <link>
+                https://www.zive.cz/clanky/novy-apple-macbook-air-konecne-ma-poradny-displej-ale-zatracene-podrazil/sc-3-a-195720/default.aspx
+            </link>
+            <guid isPermaLink="false">195720-zive.cz</guid>
+            <description>
+                Je tomu už více než deset let od doby, kdy Steve Jobs po vytáhnutí z obálky představil tenký laptop MacBook Air. Od té doby se několikrát ztenčil, zlepšovala se výbava i výdrž, ale jinak stále vycházel z původního modelu. Dokonce i rozlišení displeje 1 440 × 990 bodů si počítač drží více než osm ...
+            </description>
+            <pubDate>Wed, 31 Oct 2018 14:18:00 GMT</pubDate>
+            <dc:creator>David Polesný, Martin Miksa</dc:creator>
+        </item>
+        <item>
+            <title>
+                Aktualizace watchOS se Applu nepovedla. Některé hodinky přestaly fungovat
+            </title>
+            <link>
+                https://www.zive.cz/clanky/aktualizace-watchos-se-applu-nepovedla-nektere-hodinky-prestaly-fungovat/sc-3-a-195713/default.aspx
+            </link>
+            <guid isPermaLink="false">195713-zive.cz</guid>
+            <description>
+                Apple dnes uvedl aktualizaci svého systému pro hodinky watchOS. Krátce na to ale aktualizaci stáhl. Důvodem je totiž chyba, kvůli které se některé hodinky po nainstalování aktualizace zasekly na startovací obrazovce. Firma nyní pracuje na opravě. Chyba se týká některých uživatelů Apple Watch ...
+            </description>
+            <pubDate>Wed, 31 Oct 2018 10:26:00 GMT</pubDate>
+            <dc:creator>Vladislav Kluska</dc:creator>
+        </item>
+        <item>
+            <title>
+                Před deseti lety vznikl bitcoin. Co se vlastně tenkrát stalo?
+            </title>
+            <link>
+                https://connect.zive.cz/clanky/bitcoin-vznikl-v-roce-2008/sc-320-a-194622/default.aspx
+            </link>
+            <guid isPermaLink="false">194622-zive.cz</guid>
+            <description>
+                Přesně před 10 lety vznikl Bitcoin • O první verzi a spuštění decentralizované měny se postaral neznámý Satoshi Nakamoto • Bitcoin zažil obrovské vzestupy i pády, ale stále žije
+            </description>
+            <pubDate>Wed, 31 Oct 2018 10:13:00 GMT</pubDate>
+            <dc:creator>Karel Javůrek</dc:creator>
+        </item>
+        <item>
+            <title>
+                Twitter zvýšil obrat i zisk. Kvůli mazání botů ale přišel o miliony účtů
+            </title>
+            <link>
+                https://connect.zive.cz/clanky/twitter-zvysil-obrat-i-zisk-kvuli-mazani-botu-ale-prisel-o-miliony-uctu/sc-320-a-195663/default.aspx
+            </link>
+            <guid isPermaLink="false">195663-zive.cz</guid>
+            <description>
+                Twitter zveřejnil finanční výsledky, které dopadly nad očekávání dobře, alespoň z pohledu investorů, kteří to ocenily i zvýšenou hodnotou akcií na burze. Twitter se dlouho dobu potácel v červených čísel, v posledních čtvrtletích už je na tom ale po letech konečně dobře a začíná i ...
+            </description>
+            <pubDate>Wed, 31 Oct 2018 08:14:00 GMT</pubDate>
+            <dc:creator>Karel Javůrek</dc:creator>
+        </item>
+        <item>
+            <title>
+                S navigací Waze bude na cestách veseleji, umí přehrávat hudbu i mluvené slovo
+            </title>
+            <link>
+                https://www.zive.cz/clanky/s-navigaci-waze-bude-na-cestach-veseleji-umi-prehravat-hudbu-i-mluvene-slovo/sc-3-a-195689/default.aspx
+            </link>
+            <guid isPermaLink="false">195689-zive.cz</guid>
+            <description>
+                Navigační aplikace Waze necelý měsíc po Mapách Googlu přináší podporu přehrávání hudby ze streamovacích služeb. Nová funkce, pojmenovaná prostě Waze Audio Player, přidává k již dříve integrovanému Spotify sedm dalších poskytovatelů hudby, audioknih a zpravodajského obsahu. Podobně, jako v Mapách ...
+            </description>
+            <pubDate>Wed, 31 Oct 2018 08:07:00 GMT</pubDate>
+            <dc:creator>Karel Kilián</dc:creator>
         </item>
     </channel>
 </rss>
