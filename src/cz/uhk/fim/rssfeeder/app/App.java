@@ -1,4 +1,4 @@
-package cz.uhk.fim.rssfeeder.App;
+package cz.uhk.fim.rssfeeder.app;
 
 import cz.uhk.fim.rssfeeder.gui.MainFrame;
 

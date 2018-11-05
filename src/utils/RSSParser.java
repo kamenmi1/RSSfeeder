@@ -1,6 +1,6 @@
 package utils;
 
-import Model.RSSList;
+import model.RSSList;
 import org.xml.sax.SAXException;
 
 import javax.xml.parsers.ParserConfigurationException;

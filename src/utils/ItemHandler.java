@@ -1,7 +1,7 @@
 package utils;
 
-import Model.RSSItem;
-import Model.RSSList;
+import model.RSSItem;
+import model.RSSList;
 import org.xml.sax.Attributes;
 import org.xml.sax.helpers.DefaultHandler;
 

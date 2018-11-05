@@ -1,13 +1,15 @@
 package cz.uhk.fim.rssfeeder.gui;
 
-import Model.RSSItem;
-import Model.RSSList;
+import model.RSSItem;
+import model.RSSList;
 import org.xml.sax.SAXException;
 import utils.RSSParser;
 
 import javax.swing.*;
 import javax.xml.parsers.ParserConfigurationException;
 import java.awt.*;
+import java.awt.event.MouseAdapter;
+import java.awt.event.MouseEvent;
 import java.io.IOException;
 
 public class MainFrame extends JFrame {
@@ -55,15 +57,25 @@ public class MainFrame extends JFrame {
         try {
             rssList = new RSSParser().getParsedRSS("rss.xml");
             for (RSSItem item : rssList.getAllItem()) {
-                contentPanel.add(new CardView(item));
+                CardView cardView = new CardView(item);
+                cardView.addMouseListener(new MouseAdapter() {
+                    @Override
+                    public void mouseClicked(MouseEvent e) {
+                        if (e.getButton() == MouseEvent.BUTTON1) {
+                            if (e.getClickCount() == 2) {
+                                SwingUtilities.invokeLater(() -> new DetailFrame().setVisible(true));
+                            }
+                        }
+                    }
+                });
+                contentPanel.add(cardView);
             }
         } catch (IOException | SAXException | ParserConfigurationException e1) {
             e1.printStackTrace();
         }
 
         add(new JScrollPane(contentPanel), BorderLayout.CENTER);
-
-       /* btnLoad.addActionListener(new ActionListener() {
+        /* btnLoad.addActionListener(new ActionListener() {
             @Override
             public void actionPerformed(ActionEvent e) {
                 if (validatInput()) {
