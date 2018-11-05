@@ -63,7 +63,7 @@ public class MainFrame extends JFrame {
                     public void mouseClicked(MouseEvent e) {
                         if (e.getButton() == MouseEvent.BUTTON1) {
                             if (e.getClickCount() == 2) {
-                                SwingUtilities.invokeLater(() -> new DetailFrame().setVisible(true));
+                                SwingUtilities.invokeLater(() -> new DetailFrame(item).setVisible(true));
                             }
                         }
                     }
