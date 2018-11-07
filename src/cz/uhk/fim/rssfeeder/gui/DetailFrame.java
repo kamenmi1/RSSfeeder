@@ -10,8 +10,11 @@ import java.awt.event.MouseEvent;
 
 public class DetailFrame extends JFrame {
 
+    Color colorBG = Color.decode("0xF58B4C");
+
+
     public void init(RSSItem item) {
-        setSize(350, 350);
+        setSize(380, 480);
         setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE);
         setLocationRelativeTo(null);
         setUndecorated(true);
@@ -22,6 +25,7 @@ public class DetailFrame extends JFrame {
         JPanel controlPanel = new JPanel(new BorderLayout());
         add(controlPanel, BorderLayout.NORTH);
         JPanel contentPanel = new JPanel(new WrapLayout());
+        contentPanel.setBackground(colorBG);
 
         add(new JScrollPane(contentPanel), BorderLayout.CENTER);
 
@@ -43,7 +47,6 @@ public class DetailFrame extends JFrame {
             }
         });
         contentPanel.add(cardView);
-
     }
 
     public DetailFrame(RSSItem item) {
