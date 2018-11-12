@@ -2,15 +2,21 @@ package cz.uhk.fim.rssfeeder.gui;
 
 import model.RSSItem;
 import model.RSSList;
+import model.RSSSource;
 import org.xml.sax.SAXException;
+import utils.FileUtils;
 import utils.RSSParser;
 
 import javax.swing.*;
 import javax.xml.parsers.ParserConfigurationException;
 import java.awt.*;
+import java.awt.event.ActionEvent;
+import java.awt.event.ActionListener;
 import java.awt.event.MouseAdapter;
 import java.awt.event.MouseEvent;
 import java.io.IOException;
+import java.util.ArrayList;
+import java.util.List;
 
 public class MainFrame extends JFrame {
 
@@ -107,6 +113,31 @@ public class MainFrame extends JFrame {
             }
         });
 */
+
+        btnSave.addActionListener(new ActionListener() {
+            @Override
+            public void actionPerformed(ActionEvent e) {
+                List<RSSSource> sources = new ArrayList<>();
+                sources.add(new RSSSource("živě.cz","https://www.zive.cz/rss/sc-47/"));
+                sources.add(new RSSSource("adlskjaf","afasdfads"));
+                sources.add(new RSSSource("665465","adfasdf"));
+                FileUtils.saveSources(sources);
+            }
+        });
+
+        btnLoad.addActionListener(new ActionListener() {
+            @Override
+            public void actionPerformed(ActionEvent e) {
+                try {
+                    List<RSSSource> sources = FileUtils.loadSources();
+                    for(RSSSource s : sources){
+                        System.out.println(s.getName() + " - " + s.getSource());
+                        }
+                } catch (IOException e1) {
+                    e1.printStackTrace();
+                }
+            }
+        });
     }
 
 
