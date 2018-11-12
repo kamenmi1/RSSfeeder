@@ -55,7 +55,7 @@ public class MainFrame extends JFrame {
         JPanel contentPanel = new JPanel(new WrapLayout());
 
         try {
-            rssList = new RSSParser().getParsedRSS("rss.xml");
+            rssList = new RSSParser().getParsedRSS("https://www.zive.cz/rss/sc-47/");
             for (RSSItem item : rssList.getAllItem()) {
                 CardView cardView = new CardView(item);
                 cardView.addMouseListener(new MouseAdapter() {
